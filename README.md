@@ -1,2 +1,1 @@
-# COUR-2
-e-plant Shopping-main
+# coding-project-template
